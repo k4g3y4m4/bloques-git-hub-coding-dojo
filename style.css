@@ -1,0 +1,42 @@
+img.octocat {
+    height: 200px;
+}
+
+h1{
+    font-size: 2em;
+    font-weight: bold;
+    text-align: center;
+    color: gray;
+    font-size: 2.5em;
+    font-family: "Verdana", sans-serif;
+}
+
+#region1{ 
+    background-color: lightseagreen;
+    border-radius: 5px;
+    padding: 10px;
+    margin-bottom: 10px;
+    display: flex;
+    align-items: center;
+    justify-content: space-evenly;
+}
+
+#region2{
+    background-color: #f5f5f5;
+    border-radius: 5px;
+    padding: 10px;
+    margin-bottom: 10px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+#region3{
+    background-color: #f5f5f5;
+    border-radius: 5px;
+    padding: 10px;
+    margin-bottom: 10px;
+    display: flex;
+    align-items: center;
+    justify-content: space-evenly;
+}
